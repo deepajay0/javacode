@@ -1,4 +1,4 @@
-package org.example.array;
+
 
 public class HelloWorld {
     public static void main(String[] args) {
